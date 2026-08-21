@@ -15,7 +15,7 @@ The supplementary file contains additional materials related to the study, inclu
 
 The supplementary material can be found in this repository:
 
-- [`Supplementary material.pdf`](./Supplementary%20Files.pdf)
+- [`Supplementary Files.pdf`](./Supplementary%20Files.pdf)
 
 ## Notes
 
